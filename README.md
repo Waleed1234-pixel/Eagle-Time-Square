@@ -17,7 +17,7 @@ A series of static and animated social media posts:
 
 ## 🔗 External Assets
 Files are stored on Google Drive. Access them here:  
-[📁 View Full Portfolio on Google Drive](https://drive.google.com/drive/folders/1R5hIKNJxUSoyEgnwKOiQK_kgd4WFcc9I?usp=sharing)
+[📁 View on Google Drive](https://drive.google.com/drive/folders/1R5hIKNJxUSoyEgnwKOiQK_kgd4WFcc9I?usp=sharing)
 
 ## 📍 Tools Used
 - Capcut
